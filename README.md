@@ -1,4 +1,4 @@
-#Fair share 💰
+## Fair share 💰
 
 A modern Android application designed to simplify the process of splitting and tracking shared expenses among groups. Whether you're traveling with friends, sharing household costs with roommates, or organizing group events, Money Splitter makes expense management transparent, fair, and effortless.
 
